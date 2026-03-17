@@ -20,7 +20,7 @@ I enjoy working with Linux environments, networking, virtualization, and anythin
 ![XML](https://img.shields.io/badge/XML-005C84?style=for-the-badge&logo=w3c&logoColor=white)
 
 ## 📂 Projects
-Here you’ll find projects from my ASIR studies, including:
+You’ll find projects from my ASIR studies, including:
 - Linux administration scripts  
 - Network configurations  
 - Service deployments  
