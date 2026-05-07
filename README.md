@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-success?style=for-the-badge" alt="status" />
 </p>
 
-<!-- ABOUT ME -->
+<!-- Sobre mi -->
 <h2 align="center">About Me</h2>
 
 <table>
@@ -35,10 +35,10 @@ When I'm not in front of a terminal, I'm probably at the gym or gaming.
 </tr>
 </table>
 
-<!-- DIVIDER -->
+<!-- Barra -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:6A11CB,100:8E2DE2&height=3" width="100%" alt="divider" />
 
-<!-- TECH STACK -->
+<!-- Tecnologías que controlo -->
 <h2 align="center">Tech Stack</h2>
 
 <p align="center"><b>Operating Systems</b></p>
@@ -77,10 +77,10 @@ When I'm not in front of a terminal, I'm probably at the gym or gaming.
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools icons" />
 </p>
 
-<!-- DIVIDER -->
+<!-- Barra -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:6A11CB,100:8E2DE2&height=3" width="100%" alt="divider" />
 
-<!-- PROJECTS -->
+<!-- Proyectos -->
 <h2 align="center">Featured Projects</h2>
 
 <p align="center">A mix of <b>ASIR coursework</b> and <b>personal projects</b>:</p>
@@ -127,10 +127,10 @@ When I'm not in front of a terminal, I'm probably at the gym or gaming.
   </tbody>
 </table>
 
-<!-- DIVIDER -->
+<!-- Barra -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:6A11CB,100:8E2DE2&height=3" width="100%" alt="divider" />
 
-<!-- GITHUB STATS -->
+<!-- Estadísticas de GitHub -->
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
@@ -147,11 +147,11 @@ When I'm not in front of a terminal, I'm probably at the gym or gaming.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mab904&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- DIVIDER -->
+<!-- Barra -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:6A11CB,100:8E2DE2&height=3" width="100%" alt="divider" />
 
-<!-- CONTACT -->
-<h2 align="center">How to reach me</h2>
+<!-- Contactos -->
+<h2 align="center">Connect with me</h2>
 
 <p align="center">
   <a href="mailto:manuelacostabalume@gmail.com">
@@ -165,7 +165,7 @@ When I'm not in front of a terminal, I'm probably at the gym or gaming.
   </a>
 </p>
 
-<!-- FOOTER -->
+<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:6A11CB,100:8E2DE2&height=120&section=footer" alt="footer banner" />
 </p>
