@@ -170,4 +170,4 @@ When I'm not in front of a terminal, I'm probably at the gym or gaming.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:6A11CB,100:8E2DE2&height=120&section=footer" alt="footer banner" />
 </p>
 
-<p align="center"><em>"Optimizing systems, one workflow at a time."</em></p>
+<p align="center"><em>"Breaking down problems, one step at a time."</em></p>
