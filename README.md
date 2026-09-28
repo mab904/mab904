@@ -24,7 +24,9 @@ Funnily enough, that same mindset is why I'm hooked on factory-simulation games 
 
 Professionally, I've worked as an **IT Operator**, which gave me my first hands-on experience with real production environments. Outside of work, I'm really into **AI tooling**, especially **Claude**, and I like exploring how it can speed up everyday tasks (you'll find some of those experiments in my `claude-utilities` repo). 
 
-When I'm not in front of a terminal, I'm probably at the gym or gaming.
+When I'm not in front of a terminal, I'm probably at the gym or gaming. 
+
+Currently studying Cloud and DevOps in [Tajamar](https://fpprofessionaleducation.tajamar.es/)
 
 </td>
 <td width="40%" valign="middle" align="center">
