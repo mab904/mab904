@@ -26,7 +26,7 @@ Professionally, I've worked as an **IT Operator**, which gave me my first hands-
 
 When I'm not in front of a terminal, I'm probably at the gym or gaming. 
 
-Currently studying Cloud and DevOps in [Tajamar](https://fpprofessionaleducation.tajamar.es/)
+Currently studying Cloud and DevOps at [Tajamar](https://fpprofessionaleducation.tajamar.es/)
 
 </td>
 <td width="40%" valign="middle" align="center">
