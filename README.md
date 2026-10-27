@@ -19,7 +19,7 @@
 <td width="60%" valign="middle">
 
 I'm an **ASIR graduate from Spain** *(Administración de Sistemas Informáticos en Red)*. What I really enjoy is **breaking down logic problems step by step** and figuring out how to make systems run smoothly and faster.
-
+https://chatgpt.com/share/6ae08f99-e228-83ed-992d-4c34e1f1f096
 Funnily enough, that same mindset is why I'm hooked on factory-simulation games like **Factorio**, **Satisfactory** and **Dyson Sphere Program** 
 
 Professionally, I've worked as an **IT Operator**, which gave me my first hands-on experience with real production environments. Outside of work, I'm really into **AI tooling**, especially **Claude**, and I like exploring how it can speed up everyday tasks (you'll find some of those experiments in my `claude-utilities` repo). 
